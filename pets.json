@@ -1,0 +1,33 @@
+[
+  {
+    "nome": "Mimi",
+    "nascimento": "2017-03-15T09:15:15-03:00",
+    "raca": "SRD",
+    "vacinado": false,
+    "servicos": ["banho"]
+  },
+  {
+    "nome": "Thor",
+    "nascimento": "2010-01-15T09:15:15-03:00",
+    "raca": "Rusky",
+    "vacinado": true,
+    "servicos": ["banho", "tosa"],
+    "castrado": false
+  },
+  {
+    "nome": "Ataúlfo",
+    "nascimento": "2000-01-15T09:15:15-03:00",
+    "raca": "SRD",
+    "vacinado": false,
+    "servicos": [],
+    "castrado": false
+  },
+  {
+    "nome": "Vintém",
+    "nascimento": "2019-12-15T09:15:15-03:00",
+    "raca": "SRD",
+    "vacinado": true,
+    "servicos": ["castracao"],
+    "castrado": true
+  }
+]
