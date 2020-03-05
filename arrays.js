@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Tente as seguintes consultas no console:
 
 seriesFavoritasDaAna
@@ -199,3 +200,13 @@ similar com os problemas anteriores, porém não tão rápido! Esta função pre
     }
     return periodoComLucro;
   }
+=======
+// Exemplo de map
+let numeros = [5, 8, 9, 3];
+
+console.log(numeros.map(numero => ++numero));
+
+console.log(numeros);
+
+//
+>>>>>>> 908d458041a281d660185d001d9d790599ae5939
